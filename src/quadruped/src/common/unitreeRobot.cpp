@@ -375,7 +375,7 @@ Vec34 QuadrupedRobot::getBuoyancyCenter2BPositions(LowlevelState_XM &state, Fram
 Vec34 QuadrupedRobot::getMassCenter2BPositions(LowlevelState_XM &state, FrameType frame){
         // 定义一个3x4的矩阵，用于存储四条腿足端在指定坐标系下的位置
     Vec34 feetPos; 
-    
+        
     if(frame == FrameType::GLOBAL){
         for(int i(0); i<4; ++i){
             // 先获取每条腿足端在机体坐标系下的位置
