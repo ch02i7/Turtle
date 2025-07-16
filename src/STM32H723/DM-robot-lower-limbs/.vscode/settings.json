@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mahony_filter.h": "c",
+        "can_bsp.h": "c",
+        "chassisr_task.h": "c",
+        "dm_motor_drv.h": "c",
+        "dm_motor_ctrl.h": "c",
+        "stdint.h": "c",
+        "connect_task.h": "c"
+    }
+}
