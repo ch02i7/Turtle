@@ -1,0 +1,2 @@
+source install/setup.bash
+python3 /home/lizihan/xm02_turtle_ws/src/motor_commander/motor_commander/gui_controller.py

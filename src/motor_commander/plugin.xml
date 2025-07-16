@@ -1,0 +1,3 @@
+<library path="rqt_motor_plugin">
+  <class name="Motor Control" type="rqt_motor_control.motor_control_plugin.add_plugin" />
+</library>
